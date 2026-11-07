@@ -61,3 +61,4 @@ Browser checks performed on 2026-11-06: actual public API read, start/pause, ste
 | `tests/` | Deterministic tests and historical public API fixtures |
 
 Independent community project. Not affiliated with or endorsed by Squeekchain. No Genesis submission or approval is implied.
+squeekchain-project: bf6c7e37-25d0-4985-9ecb-07b9a4413aff
